@@ -1,0 +1,18 @@
+header{
+	padding: 10px 0;
+	font-family: "Times New Roman", Times, serif;
+}
+
+header > .center{
+	display: flex;
+}
+	
+table {
+	border-collapse: collapse;
+  }
+
+
+	
+	
+	
+	
